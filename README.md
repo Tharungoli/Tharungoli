@@ -1,13 +1,23 @@
-<h1 align="center">Hi 👋, I'm Tharun</h1>
-<h3 align="center">Final Year Engineering Student . Passionate About Building and Learning</h3>
-<img src="Tharun.jpeg" alt="THARUN">
+## Hi there! 👋
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=tharungoli&label=Profile%20views&color=0e75b6&style=flat" alt="tharungoli" /> </p>
+I'm GOLI.THARUN, a passionate coder and technology enthusiast. I admire new technologies and constantly improving my skills. Welcome to my GitHub profile!
 
-- 🌱 I’m currently learning **Python fullstack**
+## About Me
 
-- 👨‍💻 All of my projects are available at [https://github.com/Tharungoli](https://github.com/Tharungoli)
+I have developed a strong foundation in programming languages and technologies including Python, HTML, CSS, JavaScript, SQL, and C. I'm currently based in an undisclosed location and am eager to connect with like-minded individuals.
 
-- 📫 How to reach me **golitharun04@gmail.com**
+I am trained on Python Fullstack.
 
+## Skills & Technologies
 
+html,css,js,mysql,c
+
+## Certifications
+
+- python full stack - Udemy, 2025
+-python full stack 
+
+## Connect with Me
+
+Mail:golitharun04@gmail.com
+Linked in :https://www.linkedin.com/in/goli-tharun-8a7684290/
