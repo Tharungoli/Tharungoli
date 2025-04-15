@@ -1,5 +1,6 @@
 <h1 align="center">Hi 👋, I'm Tharun</h1>
 <h3 align="center">Final Year Engineering Student . Passionate About Building and Learning</h3>
+<img src="Tharun.jpeg" alt="THARUN">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=tharungoli&label=Profile%20views&color=0e75b6&style=flat" alt="tharungoli" /> </p>
 
